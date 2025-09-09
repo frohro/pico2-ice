@@ -13167,7 +13167,7 @@
 	)
 	(text "SRAM"
 		(exclude_from_sim no)
-		(at 66.04 375.158 0)
+		(at 65.786 374.142 0)
 		(effects
 			(font
 				(size 2.54 2.54)
@@ -35562,7 +35562,7 @@
 			)
 		)
 		(property "Value" "APS6404L-3SQN-SN (substituted  APS6404L-3SQR-ZR have to change package too)"
-			(at 82.55 381.635 0)
+			(at 77.724 375.666 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -56216,7 +56216,7 @@
 	)
 	(symbol
 		(lib_id "UPduino_v3.0:W25Q32JVSS-Memory_Flash")
-		(at 71.12 349.885 180)
+		(at 71.12 349.885 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -56224,7 +56224,7 @@
 		(dnp no)
 		(uuid "f250a0e2-eecd-4de7-8a77-9225d0b166f8")
 		(property "Reference" "U2"
-			(at 67.31 362.585 0)
+			(at 74.93 337.185 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -56232,7 +56232,7 @@
 			)
 		)
 		(property "Value" "W25Q32JVSSIQ"
-			(at 62.23 360.045 0)
+			(at 80.01 339.725 0)
 			(effects
 				(font
 					(size 1.27 1.27)
